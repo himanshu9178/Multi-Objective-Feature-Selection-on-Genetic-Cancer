@@ -1,5 +1,5 @@
 ## Multi-Objective Feature Selection on Genetic Cancer 
-### Bioinformatics stands at the nexus of computational and biological
+Bioinformatics stands at the nexus of computational and biological
 sciences, playing a pivotal role in the advancement of medical
 research. A domain of pressing importance is the intricate realm of
 genetic cancer datasets. Our project endeavors to amplify the
@@ -16,10 +16,11 @@ voluminous datasets, leading to robust classification models, and to
 render a seminal contribution to the overarching domain, setting the
 stage for more exhaustive research in genetic diseases and
 bioinformatics. 
-### 1.By Using Classical Genetic Algorithm
-### [CBM_2021 (1).pdf](https://github.com/himanshu9178/Multi-Objective-Feature-Selection-on-Genetic-Cancer/files/12920930/CBM_2021.1.pdf)
+### 1. IEEE Confernec paper(IC-CGU 2024)
+###[A novel multi-objective model for feature selection in cancer data](https://github.com/himanshu9178/Multi-Objective-Feature-Selection-on-Genetic-Cancer/blob/main/IEEE_Conference_Template%20(4).pdf)
 ### 2.By using Crayfish Optimization Algorithm
 ### [Crayfshoptimizationalgorithm.pdf](https://github.com/himanshu9178/Multi-Objective-Feature-Selection-on-Genetic-Cancer/files/12920941/Crayfshoptimizationalgorithm.pdf)
+
 
 ## Abstract - 1
 Cancer is a vital disease taking several lives every year. Early detection can prevent lots of terrible cases. Traditional methods frequently don't achieve the best possible accuracy of diagnosis in the detection of cancer. This paper presents a complete framework to improve the feature selection process for cancer detection by integrating a multi-objective optimization approach. Developing a strong multi-objective feature selection method that optimizes computing efficiency, sensitivity, and specificity is one of the main goals. The proposed methodology leverages multi-objective feature selection and the Crayfish Optimization Algorithm (COA), using clues from crayfish behavior to improve exploration and exploitation at different phases. Thorough research and analysis have shown that the hybrid technique works well for optimizing feature subsets. When multi-objective optimization and COA are used, interpretability is enhanced as well as the precision of classification. The study's findings indicate positive advancements in the field of cancer, and the suggested design holds great potential for streamlining feature selection procedures and lowering the complexity of cancer data. MO-COA excels over MOGA and MOPSO, achieving 96.7\% average accuracy in breast cancer with 3 average features, surpassing MOGA's 95.3\% (2 features) and MOPSO's 95.7\% (4 features). In lung and cervical cancer, MO-COA achieves 60.5\% (10 features) and 95.5\% (5 features) accuracies respectively, outperforming MOGA (52.2\% lung, 95.2\% cervical) and MOPSO (52.4\% lung, 94.2\% cervical). The average is taken for total non-dominated solutions for each algorithm over different datasets. These findings underscore MO-COA's efficiency over other algorithms in enhancing cancer diagnosis accuracy with minimal features, benefiting both research and clinical practice.
