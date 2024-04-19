@@ -18,5 +18,5 @@ stage for more exhaustive research in genetic diseases and
 bioinformatics. 
 ### 1.By Using Classical Genetic Algorithm
 ### [CBM_2021 (1).pdf](https://github.com/himanshu9178/Multi-Objective-Feature-Selection-on-Genetic-Cancer/files/12920930/CBM_2021.1.pdf)
-### 2.By using Rayfish Optimization Algorithm
+### 2.By using Crayfish Optimization Algorithm
 ### [Crayfshoptimizationalgorithm.pdf](https://github.com/himanshu9178/Multi-Objective-Feature-Selection-on-Genetic-Cancer/files/12920941/Crayfshoptimizationalgorithm.pdf)
