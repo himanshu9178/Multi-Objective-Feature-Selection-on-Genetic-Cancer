@@ -17,7 +17,7 @@ render a seminal contribution to the overarching domain, setting the
 stage for more exhaustive research in genetic diseases and
 bioinformatics. 
 ### 1. IEEE Confernec paper(IC-CGU 2024)
-###[A novel multi-objective model for feature selection in cancer data](https://github.com/himanshu9178/Multi-Objective-Feature-Selection-on-Genetic-Cancer/blob/main/IEEE_Conference_Template%20(4).pdf)
+### [A novel multi-objective model for feature selection in cancer data](https://github.com/himanshu9178/Multi-Objective-Feature-Selection-on-Genetic-Cancer/blob/main/IEEE_Conference_Template%20(4).pdf)
 ### 2.By using Crayfish Optimization Algorithm
 ### [Crayfshoptimizationalgorithm.pdf](https://github.com/himanshu9178/Multi-Objective-Feature-Selection-on-Genetic-Cancer/files/12920941/Crayfshoptimizationalgorithm.pdf)
 
